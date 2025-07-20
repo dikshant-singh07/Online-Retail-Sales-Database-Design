@@ -84,5 +84,5 @@ This project is a part of 1 month SQL developer internship.
 ## #Created by
 
 **Dikshant Kumar Singh**  
-SQL Developer Internship Project – Day 30  
-July 2025
+SQL Developer Internship Project By Elevate Labs        
+July 2025   
